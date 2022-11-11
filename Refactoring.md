@@ -10,6 +10,6 @@ You will be graded on the exhaustiveness and quality of your unit tests, the dep
 
 ## Your Explanation Here
 
-I have create the separe function, as per the single responsibility
-Created the reusable functions
-covered unittests for all the functions
+ - I have create the separe function, as per the single responsibility
+ - Created the reusable functions
+ - Covered unittests for all the functions
